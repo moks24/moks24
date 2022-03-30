@@ -19,6 +19,8 @@ Java: [Домашние работы Java для тестировщиков](htt
   <code><img width="5%" title="Docker" src="images/Docker.svg"></code>
   <code><img width="5%" title="Allure Report" src="images/allureReport.svg"></code>
   <code><img width="5%" title="Github" src="images/Github.svg"></code>
+  <code><img width="5%" title="Jira" src="images/jira-3.svg"></code>
+  <code><img width="5%" title="Postman" src="images/postman-icon.svg"></code>
 <!-- <code><img width="5%" title="Gitlab" src="images/gitlab.svg"></code> -->
 </p>
 
