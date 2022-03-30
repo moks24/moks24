@@ -14,10 +14,8 @@ Java: ![Домашние работы Java для тестировщиков]()\
   <code><img width="5%" title="Selenium" src="images/Selenium.svg"></code>
   <code><img width="5%" title="Selenide" src="images/selenide-logo.svg "></code>
   <code><img width="5%" title="Rest-Assured" src="images/RESTAssured.svg"></code>
-  
   <code><img width="5%" title="Gradle" src="images/Gradle.svg"></code>
   <code><img width="5%" title="JUnit5" src="images/junit5.svg"></code>
-  
   <code><img width="5%" title="Docker" src="images/Docker.svg"></code>
   <code><img width="5%" title="Allure Report" src="images/allureReport.svg"></code>
   <code><img width="5%" title="Github" src="images/Github.svg"></code>
