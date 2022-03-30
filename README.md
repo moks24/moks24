@@ -23,7 +23,7 @@ Java: [Домашние работы Java для тестировщиков](htt
 </p>
 
 
-# Сертификаты Нетологии
+# Сертификаты о прохождении обучения
 [Ручное тестирование веб-приложений](https://github.com/moks24/moks24/blob/main/certificate/ManualTest.pdf)\
 [GIT](https://github.com/moks24/moks24/blob/main/certificate/Git.pdf)\
 [Java для тестировщиков](https://github.com/moks24/moks24/blob/main/certificate/Java.pdf)\
