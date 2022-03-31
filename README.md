@@ -26,7 +26,7 @@ Java: [Домашние работы Java для тестировщиков](htt
 
 
 # Сертификаты
-[Тестировщик ПО](https://github.com/moks24/moks24/blob/main/certificate/certificate.pdf)
+[Тестировщик ПО](https://github.com/moks24/moks24/blob/main/certificate/certificate.pdf)\
 [Ручное тестирование веб-приложений](https://github.com/moks24/moks24/blob/main/certificate/ManualTest.pdf)\
 [GIT система контроля версий](https://github.com/moks24/moks24/blob/main/certificate/Git.pdf)\
 [Java для тестировщиков](https://github.com/moks24/moks24/blob/main/certificate/Java.pdf)\
