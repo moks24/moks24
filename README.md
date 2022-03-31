@@ -3,7 +3,7 @@
 
 # Что я умею?
 Автоматизация тестирования: [Дипломный проект "Автоматизация тестирования комплексного сервиса"](https://github.com/moks24/DiplomProject.git)\
-<!-- Java: [Домашние работы Java для тестировщиков](https://github.com/moks24/java-homeworks.git)\ -->
+Java: [Домашние работы Java для тестировщиков](https://github.com/moks24/java-homeworks.git)\
 Автоматизированое тестирование: [Домашние работы](https://github.com/moks24/QA-homeworks.git)
 
 # Языки и инструменты
