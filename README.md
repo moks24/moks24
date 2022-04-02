@@ -1,15 +1,14 @@
 ## Привет
 Я Максим Федоров, Тестировщик\
-Телефон: [+79225528600](tel:+79225528600)\
-Телеграм: [@moks24](https://tlgg.ru/moks24)\
-Почта: [gutamax2@mail.ru](gutamax2@mail.ru)\
-WhatsApp:[Максим Федоров](https://wa.me/79225528600)
+
+[Связаться со мной](https://taplink.cc/moks24)
+
 # Что я умею?
 
-Ручное тестирование: [Домашние работы "Ручное тестирование веб приложений](https://github.com/moks24/manualTest.git)\
-Java: [Домашние работы "Java для тестировщиков"](https://github.com/moks24/java-homeworks.git)\
+Ручное тестирование: [Учебные проекты "Ручное тестирование веб приложений](https://github.com/moks24/manualTest.git)\
+Java: [Учеьные проекты "Java для тестировщиков"](https://github.com/moks24/java-homeworks.git)\
 Автоматизация тестирования:\
-[Домашние работы "Автоматизированное тестирование"](https://github.com/moks24/QA-homeworks.git)\
+[Учебные проекты "Автоматизированное тестирование"](https://github.com/moks24/QA-homeworks.git)\
 [Дипломный проект "Автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка"](https://github.com/moks24/DiplomProject.git)
 
 # Языки и инструменты
